@@ -6,3 +6,5 @@ First you have to install python in your device to run py files ( for some devic
 Next go to code editor you are using PYCHARM OR VS CODE
 and create main.py and start coding......... simple right .. 😊
 Anyway here is the screenshots of my code:
+
+![OUTPUT 1](https://github.com/sunstromium/currencyconverterinpy/assets/118994059/9e86249e-d39b-43ed-9557-e57b4267f203)
